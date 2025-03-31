@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeForge
 <h4>This is our project on Home service provider website.</h4> <br><br>
 <h1>Home Service Provider</h1>
@@ -19,4 +20,7 @@ Homeowners lack a centralized platform to find, book, and manage home service pr
 <br>
 
 
+=======
+# Made By Ritika Bansal & Harsh Garg
+>>>>>>> d405f65 (This is complete without readme)
 
